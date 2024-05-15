@@ -29,7 +29,13 @@ void LinearSearch() {
     int ctr;
     int item;
 
-   
+    do {
+        //accept the number to be searched
+        cout << "\nEnter the element you want to search: ";   //step 1
+        cin >> item;
+
+        
+
 int main()
 {
     std::cout << "Hello World!\n";
